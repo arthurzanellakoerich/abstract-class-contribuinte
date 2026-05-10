@@ -1,5 +1,5 @@
 Classes Abstratas — Contribuinte 🧾
-Exercício desenvolvido durante o programa Entra21 para praticar o uso de classes abstratas e herança em Java.
+Exercício desenvolvido para praticar o uso de classes abstratas e herança em Java.
 
 📖 Sobre o projeto
 Simulação de um sistema de cálculo de impostos para contribuintes, onde cada tipo de contribuinte tem sua própria regra de tributação.
