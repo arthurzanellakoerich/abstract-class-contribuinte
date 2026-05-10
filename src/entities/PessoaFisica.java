@@ -22,7 +22,6 @@ public class PessoaFisica  extends Contribuinte{
 
     @Override
     public Double tax() {
-
         double imposto;
         if (getRendaAnual() < 20000.00){
             imposto = getRendaAnual() * 0.15;
